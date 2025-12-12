@@ -61,13 +61,16 @@ node run.js
 Make sure to reset your own discord after running the bot, after you do that, the aplication will have the following resources:
 
 - /duprow 
+
     Tag the first role to mark as the original, name the new role after it. For example:
     /duprow @member copymember
 
 - /rolehelp
+
     Showcase a simple guide to use the bot
 
 - /testrow
+
     Tag the row you want to test, it will show some permission information.
 
 ## 📜 LICENSE
